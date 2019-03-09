@@ -1,2 +1,2 @@
 # ML-Kit-Android-Projects
-Part of ML Kit Tutorial Android
+Part of ML Kit Tutorial Android at https://hoineki.com/
